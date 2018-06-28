@@ -1,0 +1,12 @@
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\bin\Release\UIproyecto.exe
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\bin\Release\UIproyecto.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\bin\Release\UIproyecto.xml
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.frmRegistro.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.Resources.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.vbproj.GenerateResource.Cache
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.exe
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.xml
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.frmlogin.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.frmVista.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\bin\Release\mysql.data.dll

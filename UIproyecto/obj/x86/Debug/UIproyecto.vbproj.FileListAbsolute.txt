@@ -1,0 +1,22 @@
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\bin\Debug\UIproyecto.exe
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\bin\Debug\UIproyecto.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\bin\Debug\UIproyecto.xml
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\obj\x86\Debug\UIproyecto.Form1.resources
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\obj\x86\Debug\UIproyecto.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\obj\x86\Debug\UIproyecto.vbproj.GenerateResource.Cache
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\obj\x86\Debug\UIproyecto.exe
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\obj\x86\Debug\UIproyecto.xml
+C:\Users\pc\AppData\Local\Temporary Projects\UIproyecto\obj\x86\Debug\UIproyecto.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.exe
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.xml
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\UIproyecto\UIproyecto\bin\Debug\UIproyecto.exe
+C:\Users\pc\Documents\Visual Studio 2010\Projects\UIproyecto\UIproyecto\bin\Debug\UIproyecto.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\UIproyecto\UIproyecto\bin\Debug\UIproyecto.xml
+C:\Users\pc\Documents\Visual Studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.vbproj.GenerateResource.Cache
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.frmRegistro.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.frmlogin.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.vbprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Debug\UIproyecto.frmVista.resources
+C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\bin\Debug\mysql.data.dll
