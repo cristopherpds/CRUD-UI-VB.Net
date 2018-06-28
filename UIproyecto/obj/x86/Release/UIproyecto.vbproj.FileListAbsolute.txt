@@ -10,3 +10,6 @@ C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\
 C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.frmlogin.resources
 C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\obj\x86\Release\UIproyecto.frmVista.resources
 C:\Users\pc\documents\visual studio 2010\Projects\UIproyecto\UIproyecto\bin\Release\mysql.data.dll
+C:\Users\usuario Family\Documents\GitHub\UIproyecto1\UIproyecto\obj\x86\Release\UIproyecto.exe
+C:\Users\usuario Family\Documents\GitHub\UIproyecto1\UIproyecto\obj\x86\Release\UIproyecto.xml
+C:\Users\usuario Family\Documents\GitHub\UIproyecto1\UIproyecto\obj\x86\Release\UIproyecto.pdb
