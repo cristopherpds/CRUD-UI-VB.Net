@@ -9,7 +9,7 @@ Public Class Datos
         sqlconection.connectionString = Conexion.cnn
 
         Try
-            oSql = "insert into t_Usuario (Cedula, Nombre, Apellido, nom_Usuario, Contraseña, Telefono, Email, Dirección)  values(" & U.Cedula & ", '" & U.Nombre & "','" & U.Apellido & "','" & U.nomUsuario & "','" & U.Contraseña & "'," & U.Telefono & ",'" & U.Email & "','" & U.Direccion & "')"
+            oSql = "insert into t_Usuariosssss (Cedula, Nombre, Apellido, nom_Usuario, Contraseña, Telefono, Email, Dirección)  values(" & U.Cedula & ", '" & U.Nombre & "','" & U.Apellido & "','" & U.nomUsuario & "','" & U.Contraseña & "'," & U.Telefono & ",'" & U.Email & "','" & U.Direccion & "')"
 
 
             sqlconection.Open()
